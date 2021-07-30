@@ -1,7 +1,7 @@
 # ActivateContinualLearning
 主动持续学习
 
-一些测试
+//一些测试
 0725 Gradient Episodic Memory for Continual Learning (GEM)
 
 0727 Elastic Weight Consolidation (EWC)
